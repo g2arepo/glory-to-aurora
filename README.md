@@ -5,7 +5,7 @@
 ## Где исходники?
 В данный момент код рефакторится для того, чтобы его можно было залить в репо. Пока там все ужасно)
 
-## [**Скачать скрипт [1.1]**](https://www.upload.ee/download/13998878/f898729386de1ac65483/Glory2Aurora_1.1.zip) 
+## [**Скачать скрипт [1.1]**](https://github.com/g2arepo/glory-to-aurora/releases/download/1.1/Glory2Aurora_winx86_release.zip) 
 
 
 ## Фитчи:
