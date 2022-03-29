@@ -2,7 +2,7 @@
 Скрипт, значительно расширяющий функционал Авроры
 <br>
 
-### [**Скачать скрипт [1.1]**](https://github.com/g2arepo/glory-to-aurora/releases/download/1.1/Glory2Aurora_winx86_release.zip) 
+### [**Скачать скрипт**](https://github.com/g2arepo/glory-to-aurora/releases/latest) 
 
 
 ## Фитчи:
